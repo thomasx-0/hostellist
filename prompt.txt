@@ -1,0 +1,14 @@
+You are a remix developer with an expertise in typescript,
+these are instructions on creating this remix app
+
+initial configuration: it must be an SPA, mobile first app
+
+1. I want you to configure the home.tsx, the root.tsx to create the main feature
+of the app, I want you to use google auth for clients, then grab hostel listings
+from hostel world using this criteria:
+- 30 day bookings of the hostel must amount to under 65% of the the user's reported
+monthly income
+- The hostels must be located in Mexico, Colombia, Brazil, Vietname and Thailand
+
+2. the Hostels should be listed as blocks, with a booking button that takes you to
+the booking page for the hostel on hostelworld
